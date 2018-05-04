@@ -1,0 +1,755 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		28662B64524E04AE9B1883BB7C61383D /* Pods-FFRerormerKeysKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C6357DF28C68D06C37C18B5FE2A8E702 /* Pods-FFRerormerKeysKit_Example-dummy.m */; };
+		52617312131CDA737F2CBF09528AFBE4 /* FFSpecialListReformerKeys.h in Headers */ = {isa = PBXBuildFile; fileRef = 89DB63EECEAAD4A681EEF3857CE3E253 /* FFSpecialListReformerKeys.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5B0145872850E9C41D5D4A6B293A7F21 /* Pods-FFRerormerKeysKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BCEE49B458EC3A01388AB8831CC39C88 /* Pods-FFRerormerKeysKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6552453D5FADB468C116381C028E0025 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		7D02BDE957539CAA6FFA9817D83A0E00 /* Pods-FFRerormerKeysKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B9BC3214686C28BBE94BF41D5F48C8AE /* Pods-FFRerormerKeysKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8615AF3A6908275DCE34187FBA7FD1D7 /* FFSpecialListReformerKeys.m in Sources */ = {isa = PBXBuildFile; fileRef = 1155C87947A481074FB3D5158BBBACAD /* FFSpecialListReformerKeys.m */; };
+		86981B4E57D85CA82CA0FF9C638B840B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		8A2AD847FF8C8CA3E86AE85DFAB8201B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		A4DD8A24316339F44EF6521BAA87A6F3 /* FFAuthorListReformerKeys.h in Headers */ = {isa = PBXBuildFile; fileRef = AFB32D90B33FF422DE3CCE90FF0301FB /* FFAuthorListReformerKeys.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AF8D5C0FECA25878C535F8FBDEFC5526 /* FFRerormerKeysKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 642DBBCE3F7E7C60E0EEEB9B770F3B99 /* FFRerormerKeysKit-dummy.m */; };
+		B19A2BFCD4332A4AC11AB48B721B6C8F /* Pods-FFRerormerKeysKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A9A7714644D0F592A86E6120C94520CF /* Pods-FFRerormerKeysKit_Tests-dummy.m */; };
+		D2C5E80797FA1EC295330B71FF132A27 /* FFAuthorListReformerKeys.m in Sources */ = {isa = PBXBuildFile; fileRef = 40317368ED8CE970DC8442A0B4A89B53 /* FFAuthorListReformerKeys.m */; };
+		DC217723CEB4C2F8A1724D3758DD7C43 /* FFRerormerKeysKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 559115C9423D949A0F401C652E625822 /* FFRerormerKeysKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9EAFEAB393387D05C8686828F963BCEC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6815FB90BEC66BB35EF78F9E79603780;
+			remoteInfo = FFRerormerKeysKit;
+		};
+		EC7D19119988FEDC556AD8B10AF1215B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 691E96F24217979CA94E7E97614A23DF;
+			remoteInfo = "Pods-FFRerormerKeysKit_Example";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		07F3414366C2FD6B2453E48E95F642E0 /* Pods-FFRerormerKeysKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FFRerormerKeysKit_Tests-resources.sh"; sourceTree = "<group>"; };
+		1006794276FF247E9119C2E3C31B08DB /* Pods-FFRerormerKeysKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FFRerormerKeysKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		1155C87947A481074FB3D5158BBBACAD /* FFSpecialListReformerKeys.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FFSpecialListReformerKeys.m; path = FFRerormerKeysKit/Classes/reformerKeys/FFSpecialListReformerKeys.m; sourceTree = "<group>"; };
+		157FA0054CCD9D362D9DFA4EB346FF0F /* Pods-FFRerormerKeysKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FFRerormerKeysKit_Example-frameworks.sh"; sourceTree = "<group>"; };
+		231F678D7DAB8F68ABCD5CBFBA8E3217 /* Pods-FFRerormerKeysKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FFRerormerKeysKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		26E5128261DDFF84F519581F6C8CC397 /* FFRerormerKeysKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FFRerormerKeysKit.xcconfig; sourceTree = "<group>"; };
+		2DB8A0BD7C2875A44D0947BC5E984D81 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33EDB0587FB8D3F981F38B493B645B1E /* Pods-FFRerormerKeysKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FFRerormerKeysKit_Tests.modulemap"; sourceTree = "<group>"; };
+		372853BF251684D6DA2CADA2C0ED7602 /* Pods_FFRerormerKeysKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FFRerormerKeysKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		40317368ED8CE970DC8442A0B4A89B53 /* FFAuthorListReformerKeys.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FFAuthorListReformerKeys.m; path = FFRerormerKeysKit/Classes/reformerKeys/FFAuthorListReformerKeys.m; sourceTree = "<group>"; };
+		53AEC48D18233E2879EB83ECBE4077F5 /* FFRerormerKeysKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FFRerormerKeysKit-prefix.pch"; sourceTree = "<group>"; };
+		54977A797FB722EEFA0F030139D9CE60 /* Pods-FFRerormerKeysKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FFRerormerKeysKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		559115C9423D949A0F401C652E625822 /* FFRerormerKeysKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FFRerormerKeysKit-umbrella.h"; sourceTree = "<group>"; };
+		616A2CC54F416318EA2F31FFAA2A0FF8 /* Pods-FFRerormerKeysKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FFRerormerKeysKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		642DBBCE3F7E7C60E0EEEB9B770F3B99 /* FFRerormerKeysKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FFRerormerKeysKit-dummy.m"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6EE3E047FE9CDE80C723BEDD6A58454D /* Pods-FFRerormerKeysKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FFRerormerKeysKit_Example.release.xcconfig"; sourceTree = "<group>"; };
+		727EC9C5FAFDE1F8B25999254EC8F7FA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		883BFBAFA63D4F926AB65D2C468F04EC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89DB63EECEAAD4A681EEF3857CE3E253 /* FFSpecialListReformerKeys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FFSpecialListReformerKeys.h; path = FFRerormerKeysKit/Classes/reformerKeys/FFSpecialListReformerKeys.h; sourceTree = "<group>"; };
+		8BD2F77EA73FBD9B88C0F619087A7311 /* Pods-FFRerormerKeysKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FFRerormerKeysKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		92D18CB5EB309E96E1310523FC3C2597 /* FFRerormerKeysKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = FFRerormerKeysKit.podspec; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		99AA2410A64684057D94B9856FB8CBAA /* Pods-FFRerormerKeysKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FFRerormerKeysKit_Example.modulemap"; sourceTree = "<group>"; };
+		9BB098EF148869E9EF60F270D5E746FC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A9A7714644D0F592A86E6120C94520CF /* Pods-FFRerormerKeysKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FFRerormerKeysKit_Tests-dummy.m"; sourceTree = "<group>"; };
+		AFB32D90B33FF422DE3CCE90FF0301FB /* FFAuthorListReformerKeys.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FFAuthorListReformerKeys.h; path = FFRerormerKeysKit/Classes/reformerKeys/FFAuthorListReformerKeys.h; sourceTree = "<group>"; };
+		B9BC3214686C28BBE94BF41D5F48C8AE /* Pods-FFRerormerKeysKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FFRerormerKeysKit_Example-umbrella.h"; sourceTree = "<group>"; };
+		BCEE49B458EC3A01388AB8831CC39C88 /* Pods-FFRerormerKeysKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FFRerormerKeysKit_Tests-umbrella.h"; sourceTree = "<group>"; };
+		C6357DF28C68D06C37C18B5FE2A8E702 /* Pods-FFRerormerKeysKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FFRerormerKeysKit_Example-dummy.m"; sourceTree = "<group>"; };
+		CF0B71F90D1BBE9C6448481C8A6E13B4 /* FFRerormerKeysKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FFRerormerKeysKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D88DF39B7AF9ED14806D8E584A7BF1C1 /* Pods-FFRerormerKeysKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FFRerormerKeysKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		DAD02D16DE004DD258F6F41A7EB167C0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB7EC8324F111478DDC939E297565C81 /* FFRerormerKeysKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = FFRerormerKeysKit.modulemap; sourceTree = "<group>"; };
+		E4166176F4E297F7B67ADB5D551838E5 /* Pods-FFRerormerKeysKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FFRerormerKeysKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		E8FB5FE13613ACA974F17FFCE5DEA64D /* Pods_FFRerormerKeysKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FFRerormerKeysKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA9C39DD0461AE3AB22E674F87E3B61B /* Pods-FFRerormerKeysKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FFRerormerKeysKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		F07FFD510B0411CD942B8E7CF51D4B8D /* Pods-FFRerormerKeysKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FFRerormerKeysKit_Example-resources.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AE3EAF0C79F242181914CCDFF5AFF7BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				86981B4E57D85CA82CA0FF9C638B840B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B97B81B991856753EA6AFE6478B0358D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6552453D5FADB468C116381C028E0025 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1B45DB268E34230E7837AF8E29B3C41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A2AD847FF8C8CA3E86AE85DFAB8201B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1D169D9C11904E5CC62E7A7CCC448ED8 /* FFRerormerKeysKit */ = {
+			isa = PBXGroup;
+			children = (
+				AFB32D90B33FF422DE3CCE90FF0301FB /* FFAuthorListReformerKeys.h */,
+				40317368ED8CE970DC8442A0B4A89B53 /* FFAuthorListReformerKeys.m */,
+				89DB63EECEAAD4A681EEF3857CE3E253 /* FFSpecialListReformerKeys.h */,
+				1155C87947A481074FB3D5158BBBACAD /* FFSpecialListReformerKeys.m */,
+				DFF633A5BA7EF4CAC8C2D2A57FBABA61 /* Pod */,
+				3793748F29F87171AD6EB9CFA0A7D661 /* Support Files */,
+			);
+			name = FFRerormerKeysKit;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		3793748F29F87171AD6EB9CFA0A7D661 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DB7EC8324F111478DDC939E297565C81 /* FFRerormerKeysKit.modulemap */,
+				26E5128261DDFF84F519581F6C8CC397 /* FFRerormerKeysKit.xcconfig */,
+				642DBBCE3F7E7C60E0EEEB9B770F3B99 /* FFRerormerKeysKit-dummy.m */,
+				53AEC48D18233E2879EB83ECBE4077F5 /* FFRerormerKeysKit-prefix.pch */,
+				559115C9423D949A0F401C652E625822 /* FFRerormerKeysKit-umbrella.h */,
+				2DB8A0BD7C2875A44D0947BC5E984D81 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/FFRerormerKeysKit";
+			sourceTree = "<group>";
+		};
+		62949A9582F280E2CF55F334488BDA27 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1D169D9C11904E5CC62E7A7CCC448ED8 /* FFRerormerKeysKit */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		687C8B904DBFBC985D12463615FD99DF /* Pods-FFRerormerKeysKit_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				DAD02D16DE004DD258F6F41A7EB167C0 /* Info.plist */,
+				33EDB0587FB8D3F981F38B493B645B1E /* Pods-FFRerormerKeysKit_Tests.modulemap */,
+				D88DF39B7AF9ED14806D8E584A7BF1C1 /* Pods-FFRerormerKeysKit_Tests-acknowledgements.markdown */,
+				231F678D7DAB8F68ABCD5CBFBA8E3217 /* Pods-FFRerormerKeysKit_Tests-acknowledgements.plist */,
+				A9A7714644D0F592A86E6120C94520CF /* Pods-FFRerormerKeysKit_Tests-dummy.m */,
+				EA9C39DD0461AE3AB22E674F87E3B61B /* Pods-FFRerormerKeysKit_Tests-frameworks.sh */,
+				07F3414366C2FD6B2453E48E95F642E0 /* Pods-FFRerormerKeysKit_Tests-resources.sh */,
+				BCEE49B458EC3A01388AB8831CC39C88 /* Pods-FFRerormerKeysKit_Tests-umbrella.h */,
+				E4166176F4E297F7B67ADB5D551838E5 /* Pods-FFRerormerKeysKit_Tests.debug.xcconfig */,
+				616A2CC54F416318EA2F31FFAA2A0FF8 /* Pods-FFRerormerKeysKit_Tests.release.xcconfig */,
+			);
+			name = "Pods-FFRerormerKeysKit_Tests";
+			path = "Target Support Files/Pods-FFRerormerKeysKit_Tests";
+			sourceTree = "<group>";
+		};
+		6EB6CAEBD7279320B161D0C68409D850 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A6B2E487E2AD9A44C43A87B37A238D25 /* Pods-FFRerormerKeysKit_Example */,
+				687C8B904DBFBC985D12463615FD99DF /* Pods-FFRerormerKeysKit_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				62949A9582F280E2CF55F334488BDA27 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				83820265304328643B703FAC88B05783 /* Products */,
+				6EB6CAEBD7279320B161D0C68409D850 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		83820265304328643B703FAC88B05783 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CF0B71F90D1BBE9C6448481C8A6E13B4 /* FFRerormerKeysKit.framework */,
+				372853BF251684D6DA2CADA2C0ED7602 /* Pods_FFRerormerKeysKit_Example.framework */,
+				E8FB5FE13613ACA974F17FFCE5DEA64D /* Pods_FFRerormerKeysKit_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A6B2E487E2AD9A44C43A87B37A238D25 /* Pods-FFRerormerKeysKit_Example */ = {
+			isa = PBXGroup;
+			children = (
+				883BFBAFA63D4F926AB65D2C468F04EC /* Info.plist */,
+				99AA2410A64684057D94B9856FB8CBAA /* Pods-FFRerormerKeysKit_Example.modulemap */,
+				54977A797FB722EEFA0F030139D9CE60 /* Pods-FFRerormerKeysKit_Example-acknowledgements.markdown */,
+				1006794276FF247E9119C2E3C31B08DB /* Pods-FFRerormerKeysKit_Example-acknowledgements.plist */,
+				C6357DF28C68D06C37C18B5FE2A8E702 /* Pods-FFRerormerKeysKit_Example-dummy.m */,
+				157FA0054CCD9D362D9DFA4EB346FF0F /* Pods-FFRerormerKeysKit_Example-frameworks.sh */,
+				F07FFD510B0411CD942B8E7CF51D4B8D /* Pods-FFRerormerKeysKit_Example-resources.sh */,
+				B9BC3214686C28BBE94BF41D5F48C8AE /* Pods-FFRerormerKeysKit_Example-umbrella.h */,
+				8BD2F77EA73FBD9B88C0F619087A7311 /* Pods-FFRerormerKeysKit_Example.debug.xcconfig */,
+				6EE3E047FE9CDE80C723BEDD6A58454D /* Pods-FFRerormerKeysKit_Example.release.xcconfig */,
+			);
+			name = "Pods-FFRerormerKeysKit_Example";
+			path = "Target Support Files/Pods-FFRerormerKeysKit_Example";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		DFF633A5BA7EF4CAC8C2D2A57FBABA61 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				92D18CB5EB309E96E1310523FC3C2597 /* FFRerormerKeysKit.podspec */,
+				727EC9C5FAFDE1F8B25999254EC8F7FA /* LICENSE */,
+				9BB098EF148869E9EF60F270D5E746FC /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		4F5ED397137A4D014157D37CC082BFA9 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4DD8A24316339F44EF6521BAA87A6F3 /* FFAuthorListReformerKeys.h in Headers */,
+				DC217723CEB4C2F8A1724D3758DD7C43 /* FFRerormerKeysKit-umbrella.h in Headers */,
+				52617312131CDA737F2CBF09528AFBE4 /* FFSpecialListReformerKeys.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6707751347D476E8681446AF3C2022E2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5B0145872850E9C41D5D4A6B293A7F21 /* Pods-FFRerormerKeysKit_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7E84901F1182A8E32F7E6CB98CB4E981 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7D02BDE957539CAA6FFA9817D83A0E00 /* Pods-FFRerormerKeysKit_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		6815FB90BEC66BB35EF78F9E79603780 /* FFRerormerKeysKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4B82C534865D8E77BE7DEC8688CF5032 /* Build configuration list for PBXNativeTarget "FFRerormerKeysKit" */;
+			buildPhases = (
+				B02A82AC4C06DBC29955DD1D59769CA2 /* Sources */,
+				B97B81B991856753EA6AFE6478B0358D /* Frameworks */,
+				4F5ED397137A4D014157D37CC082BFA9 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FFRerormerKeysKit;
+			productName = FFRerormerKeysKit;
+			productReference = CF0B71F90D1BBE9C6448481C8A6E13B4 /* FFRerormerKeysKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		691E96F24217979CA94E7E97614A23DF /* Pods-FFRerormerKeysKit_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 965823F9FE65E8C362AE011CCC98B99A /* Build configuration list for PBXNativeTarget "Pods-FFRerormerKeysKit_Example" */;
+			buildPhases = (
+				0639FF412C62B0B69DFDF2F3A57D898D /* Sources */,
+				AE3EAF0C79F242181914CCDFF5AFF7BB /* Frameworks */,
+				7E84901F1182A8E32F7E6CB98CB4E981 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5121E0F4D91A268ACAE01AF28706281B /* PBXTargetDependency */,
+			);
+			name = "Pods-FFRerormerKeysKit_Example";
+			productName = "Pods-FFRerormerKeysKit_Example";
+			productReference = 372853BF251684D6DA2CADA2C0ED7602 /* Pods_FFRerormerKeysKit_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EF271091802443F62D184D1E61022034 /* Pods-FFRerormerKeysKit_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 09C734F44A3A3C08ED6C979880AEAAFC /* Build configuration list for PBXNativeTarget "Pods-FFRerormerKeysKit_Tests" */;
+			buildPhases = (
+				8C49E57D4066B24B8FB3374CACD585A8 /* Sources */,
+				F1B45DB268E34230E7837AF8E29B3C41 /* Frameworks */,
+				6707751347D476E8681446AF3C2022E2 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A9CB6C1E0E80AF8B826231FE4ADB6951 /* PBXTargetDependency */,
+			);
+			name = "Pods-FFRerormerKeysKit_Tests";
+			productName = "Pods-FFRerormerKeysKit_Tests";
+			productReference = E8FB5FE13613ACA974F17FFCE5DEA64D /* Pods_FFRerormerKeysKit_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 83820265304328643B703FAC88B05783 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6815FB90BEC66BB35EF78F9E79603780 /* FFRerormerKeysKit */,
+				691E96F24217979CA94E7E97614A23DF /* Pods-FFRerormerKeysKit_Example */,
+				EF271091802443F62D184D1E61022034 /* Pods-FFRerormerKeysKit_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0639FF412C62B0B69DFDF2F3A57D898D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28662B64524E04AE9B1883BB7C61383D /* Pods-FFRerormerKeysKit_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8C49E57D4066B24B8FB3374CACD585A8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B19A2BFCD4332A4AC11AB48B721B6C8F /* Pods-FFRerormerKeysKit_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B02A82AC4C06DBC29955DD1D59769CA2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D2C5E80797FA1EC295330B71FF132A27 /* FFAuthorListReformerKeys.m in Sources */,
+				AF8D5C0FECA25878C535F8FBDEFC5526 /* FFRerormerKeysKit-dummy.m in Sources */,
+				8615AF3A6908275DCE34187FBA7FD1D7 /* FFSpecialListReformerKeys.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5121E0F4D91A268ACAE01AF28706281B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FFRerormerKeysKit;
+			target = 6815FB90BEC66BB35EF78F9E79603780 /* FFRerormerKeysKit */;
+			targetProxy = 9EAFEAB393387D05C8686828F963BCEC /* PBXContainerItemProxy */;
+		};
+		A9CB6C1E0E80AF8B826231FE4ADB6951 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-FFRerormerKeysKit_Example";
+			target = 691E96F24217979CA94E7E97614A23DF /* Pods-FFRerormerKeysKit_Example */;
+			targetProxy = EC7D19119988FEDC556AD8B10AF1215B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		00ABC7B3FD6CF7F9E4080D0218FCE614 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26E5128261DDFF84F519581F6C8CC397 /* FFRerormerKeysKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FFRerormerKeysKit/FFRerormerKeysKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FFRerormerKeysKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FFRerormerKeysKit/FFRerormerKeysKit.modulemap";
+				PRODUCT_MODULE_NAME = FFRerormerKeysKit;
+				PRODUCT_NAME = FFRerormerKeysKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		01D02935765B7534BD1B41F20CB7CC71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26E5128261DDFF84F519581F6C8CC397 /* FFRerormerKeysKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FFRerormerKeysKit/FFRerormerKeysKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FFRerormerKeysKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FFRerormerKeysKit/FFRerormerKeysKit.modulemap";
+				PRODUCT_MODULE_NAME = FFRerormerKeysKit;
+				PRODUCT_NAME = FFRerormerKeysKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		38213E3012197C0BE8E008AAB9914459 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 616A2CC54F416318EA2F31FFAA2A0FF8 /* Pods-FFRerormerKeysKit_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Tests/Pods-FFRerormerKeysKit_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		86E79D7E71C3397B235CBB719BD2F817 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6EE3E047FE9CDE80C723BEDD6A58454D /* Pods-FFRerormerKeysKit_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Example/Pods-FFRerormerKeysKit_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8B33C5230DE4A9DFA6D8F46505DD7AF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		B42B54097A876E8A982CBF5DAA91B1AB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		BD831E0E69CEE0C9EA7B18076BC13B44 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4166176F4E297F7B67ADB5D551838E5 /* Pods-FFRerormerKeysKit_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Tests/Pods-FFRerormerKeysKit_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CB1695E3C966843BAB11C6EA3300A5F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8BD2F77EA73FBD9B88C0F619087A7311 /* Pods-FFRerormerKeysKit_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FFRerormerKeysKit_Example/Pods-FFRerormerKeysKit_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		09C734F44A3A3C08ED6C979880AEAAFC /* Build configuration list for PBXNativeTarget "Pods-FFRerormerKeysKit_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BD831E0E69CEE0C9EA7B18076BC13B44 /* Debug */,
+				38213E3012197C0BE8E008AAB9914459 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B33C5230DE4A9DFA6D8F46505DD7AF7 /* Debug */,
+				B42B54097A876E8A982CBF5DAA91B1AB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4B82C534865D8E77BE7DEC8688CF5032 /* Build configuration list for PBXNativeTarget "FFRerormerKeysKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00ABC7B3FD6CF7F9E4080D0218FCE614 /* Debug */,
+				01D02935765B7534BD1B41F20CB7CC71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		965823F9FE65E8C362AE011CCC98B99A /* Build configuration list for PBXNativeTarget "Pods-FFRerormerKeysKit_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CB1695E3C966843BAB11C6EA3300A5F0 /* Debug */,
+				86E79D7E71C3397B235CBB719BD2F817 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

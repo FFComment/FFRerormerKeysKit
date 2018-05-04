@@ -1,0 +1,16 @@
+PODS:
+  - FFRerormerKeysKit (0.1.0)
+
+DEPENDENCIES:
+  - FFRerormerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFRerormerKeysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFRerormerKeysKit: db79656a5133a84c733b82514b97ecb9b011b2d8
+
+PODFILE CHECKSUM: 8573c5324c4c1b73ce71238522f12781ba34e3b6
+
+COCOAPODS: 1.5.0
