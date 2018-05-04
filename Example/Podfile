@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FFRerormerKeysKit_Example' do
+  pod 'FFRerormerKeysKit', :path => '../'
+
+  target 'FFRerormerKeysKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
